@@ -6,10 +6,10 @@
 ### <div align="center">Hi 👋, I'm Nzegwu Stanley, a freelance fullStack web developer 👨‍💻 with a passion for creating beautiful and interactive web apps. Let's create something amazing together!</div>  
   
 
-- 🔭 I’m currently working on fitGenius  
+- 🔭 I’m currently working on [fitGenius](https://github.com/stanleynzegwu/fitness)
   
 
-- 🌱 I’m currently learning ThreeJs and React Three fiber  
+- 🌱 I’m currently learning ThreeJs
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
