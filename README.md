@@ -6,7 +6,7 @@
 ### <div align="center">Hi 👋, I'm Nzegwu Stanley, a freelance fullStack web developer 👨‍💻 with a passion for creating beautiful and interactive web apps. Let's create something amazing together!</div>  
   
 
-- 🔭 I’m currently working on [3D Art Gallary]([https://github.com/stanleynzegwu/fitness](https://github.com/stanleynzegwu/3D-Art-Gallary))
+- 🔭 I’m currently working on [3D Art Gallary](https://github.com/stanleynzegwu/3D-Art-Gallary) 
   
 
 - 🌱 I’m currently learning ThreeJs
