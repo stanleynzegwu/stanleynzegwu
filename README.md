@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [3D Art Gallary](https://github.com/stanleynzegwu/3D-Art-Gallary) 
   
 
-- 🌱 I’m currently learning ThreeJs
+- 🌱 I’m currently learning Python
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
