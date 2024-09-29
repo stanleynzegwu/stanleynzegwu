@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Nzegwu Stanley, a freelance fullStack web developer 👨‍💻 with a passion for creating beautiful and interactive web apps. Let's create something amazing together!</div>  
+### <div align="center">Hi 👋, I'm Nzegwu Stanley, a Creative developer 👨‍💻 I create beautiful and interactive web apps. Redefining reality with code. Let's create something amazing together!</div>  
   
 
 - 🔭 I’m currently working on [3D Art Gallary](https://github.com/stanleynzegwu/3D-Art-Gallary) 
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack, WebGl and related technologies  
   
 
 - ⚡ I'm a big fan of learning new things, and when I finally grasp a concept or skill, I can't help but shout "yipee!" in excitement. I always do that.  
